@@ -1,5 +1,4 @@
 # iwt_group_project
-Kanha Raheja\n
-Aditya Kumar\n
-Ritesh Kumar Singh\n
-Shubham Parmanik\n
+Kanha Raheja <br>aditya Kumar<br>
+Ritesh Kumar Singh<br>
+Shubham Parmanik<br>
